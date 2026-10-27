@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280" role="img" aria-label="What I work on: Old Chinese phonology; oracle-bone script; inductive bias with small data. Off-hours: Crusader Kings III modding, fiction, Irish history, theatre.">
+<style>
+.s{stroke-dasharray:1;animation:draw 1s ease-out both}
+@keyframes draw{0%{stroke-dashoffset:1;opacity:0}5%{opacity:1}100%{stroke-dashoffset:0;opacity:1}}
+@media (prefers-reduced-motion:reduce){.s{animation:none}}
+</style>
+<rect x="1" y="1" width="878" height="278" rx="14" fill="#f4ecdb" stroke="#d9cbb0" stroke-width="2"/>
+<text x="440.0" y="44" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="13" letter-spacing="3" fill="#b03a2e">WHAT I WORK ON</text>
+<g transform="translate(148 62) scale(.5)" fill="none" stroke="#b03a2e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M12 28 L22 34 L22 72 Q22 82 32 82 L68 82 Q78 82 78 72 L78 34 L88 28" style="animation-delay:0.60s"/>
+</g>
+<text x="173" y="142" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="18" font-weight="bold" fill="#3a2c20">Old Chinese phonology</text>
+<text x="173" y="168" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">Finding phonological evidence in</text>
+<text x="173" y="188" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">scholarly literature with weak</text>
+<text x="173" y="208" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">supervision and small local models</text>
+<line x1="307" y1="70" x2="307" y2="208" stroke="#d9cbb0" stroke-width="1.5"/>
+<g transform="translate(415 62) scale(.5)" fill="none" stroke="#b03a2e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M45 10 L45 92" style="animation-delay:1.15s"/>
+  <path class="s" pathLength="1" d="M45 42 L76 26" style="animation-delay:1.40s"/>
+</g>
+<text x="440" y="142" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="18" font-weight="bold" fill="#3a2c20">Oracle-bone script</text>
+<text x="440" y="168" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">Multimodal modelling of</text>
+<text x="440" y="188" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">rubbings, tracings and text</text>
+<line x1="573" y1="70" x2="573" y2="208" stroke="#d9cbb0" stroke-width="1.5"/>
+<g transform="translate(681 62) scale(.5)" fill="none" stroke="#b03a2e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M50 20 L50 66" style="animation-delay:1.95s"/>
+  <path class="s" pathLength="1" d="M28 44 L23 76" style="animation-delay:2.20s"/>
+  <path class="s" pathLength="1" d="M72 44 L77 76" style="animation-delay:2.45s"/>
+</g>
+<text x="706" y="142" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="18" font-weight="bold" fill="#3a2c20">Inductive bias, small data</text>
+<text x="706" y="168" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">What simple features crowd out</text>
+<text x="706" y="188" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">when data is scarce</text>
+<line x1="120" y1="230" x2="760" y2="230" stroke="#d9cbb0" stroke-width="1.5"/>
+<text x="440.0" y="258" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="14" fill="#7a6650">Off-hours:  Crusader Kings III modding  ·  fiction  ·  Irish history  ·  theatre</text>
+</svg>
