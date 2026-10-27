@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" role="img" aria-label="Economics → Linguistics → NLP. Six oracle-bone characters drawn stroke by stroke, each followed by its Old Chinese reconstruction.">
+<style>
+.s{stroke-dasharray:1;animation:draw 1s ease-out both}
+.t{animation:fade .8s ease-out both}
+@keyframes draw{0%{stroke-dashoffset:1;opacity:0}5%{opacity:1}100%{stroke-dashoffset:0;opacity:1}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.s,.t{animation:none}}
+</style>
+<rect x="1" y="1" width="878" height="298" rx="14" fill="#f4ecdb" stroke="#d9cbb0" stroke-width="2"/>
+<text x="440.0" y="54" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="26" fill="#3a2c20">Economics → Linguistics → NLP</text>
+<text x="440.0" y="82" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="15" font-style="italic" fill="#7a6650">Models for linguistic structure, no leaderboards.</text>
+<g transform="translate(105 108) scale(.7)" fill="none" stroke="#b03a2e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M40 14 Q20 14 20 34 L20 66 Q20 86 40 86 L60 86 Q80 86 80 66 L80 34 Q80 14 60 14 Z" style="animation-delay:0.40s"/>
+  <path class="s" pathLength="1" d="M38 50 L62 50" style="animation-delay:0.65s"/>
+</g>
+<g class="t" style="animation-delay:1.20s"  font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif"><text x="140" y="212" text-anchor="middle" font-size="18" font-style="italic" fill="#3a2c20">*C.nik</text><text x="140" y="240" text-anchor="middle" font-size="15" fill="#7a6650">日 rì</text></g>
+<g transform="translate(225 108) scale(.7)" fill="none" stroke="#b03a2e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M62 10 C22 22 22 78 62 90 C44 72 44 28 62 10 Z" style="animation-delay:1.10s"/>
+</g>
+<g class="t" style="animation-delay:1.65s"  font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif"><text x="260" y="212" text-anchor="middle" font-size="18" font-style="italic" fill="#3a2c20">*ŋʷat</text><text x="260" y="240" text-anchor="middle" font-size="15" fill="#7a6650">月 yuè</text></g>
+<g transform="translate(345 108) scale(.7)" fill="none" stroke="#b03a2e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M50 8 C62 30 62 58 44 92" style="animation-delay:1.55s"/>
+  <path class="s" pathLength="1" d="M58 32 L32 60" style="animation-delay:1.80s"/>
+</g>
+<g class="t" style="animation-delay:2.35s"  font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif"><text x="380" y="212" text-anchor="middle" font-size="18" font-style="italic" fill="#3a2c20">*ni[ŋ]</text><text x="380" y="240" text-anchor="middle" font-size="15" fill="#7a6650">人 rén</text></g>
+<g transform="translate(465 108) scale(.7)" fill="none" stroke="#b03a2e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M10 84 L90 84" style="animation-delay:2.25s"/>
+  <path class="s" pathLength="1" d="M12 84 L22 54 L34 84" style="animation-delay:2.50s"/>
+  <path class="s" pathLength="1" d="M38 84 L50 20 L62 84" style="animation-delay:2.75s"/>
+  <path class="s" pathLength="1" d="M66 84 L78 54 L88 84" style="animation-delay:3.00s"/>
+</g>
+<g class="t" style="animation-delay:3.55s"  font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif"><text x="500" y="212" text-anchor="middle" font-size="18" font-style="italic" fill="#3a2c20">*s.ŋrar</text><text x="500" y="240" text-anchor="middle" font-size="15" fill="#7a6650">山 shān</text></g>
+<g transform="translate(585 108) scale(.7)" fill="none" stroke="#b03a2e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M50 8 C38 25 62 40 50 55 C38 70 62 82 50 94" style="animation-delay:3.45s"/>
+  <path class="s" pathLength="1" d="M25 24 L31 34" style="animation-delay:3.70s"/>
+  <path class="s" pathLength="1" d="M25 64 L31 74" style="animation-delay:3.95s"/>
+  <path class="s" pathLength="1" d="M75 24 L69 34" style="animation-delay:4.20s"/>
+  <path class="s" pathLength="1" d="M75 64 L69 74" style="animation-delay:4.45s"/>
+</g>
+<g class="t" style="animation-delay:5.00s"  font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif"><text x="620" y="212" text-anchor="middle" font-size="18" font-style="italic" fill="#3a2c20">*s.turʔ</text><text x="620" y="240" text-anchor="middle" font-size="15" fill="#7a6650">水 shuǐ</text></g>
+<g transform="translate(705 108) scale(.7)" fill="none" stroke="#b03a2e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path class="s" pathLength="1" d="M50 8 L50 94" style="animation-delay:4.90s"/>
+  <path class="s" pathLength="1" d="M50 32 L28 12" style="animation-delay:5.15s"/>
+  <path class="s" pathLength="1" d="M50 32 L72 12" style="animation-delay:5.40s"/>
+  <path class="s" pathLength="1" d="M50 70 L28 92" style="animation-delay:5.65s"/>
+  <path class="s" pathLength="1" d="M50 70 L72 92" style="animation-delay:5.90s"/>
+</g>
+<g class="t" style="animation-delay:6.45s"  font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif"><text x="740" y="212" text-anchor="middle" font-size="18" font-style="italic" fill="#3a2c20">*C.mˤok</text><text x="740" y="240" text-anchor="middle" font-size="15" fill="#7a6650">木 mù</text></g>
+<text x="440.0" y="280" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="11" fill="#9a8770">Oracle-bone forms redrawn by hand · Old Chinese after Baxter &amp; Sagart (2014)</text>
+</svg>
